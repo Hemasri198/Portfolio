@@ -27,7 +27,7 @@ The portfolio serves as a professional platform to present my work, demonstrate 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Portfolio.git
+   git clone https://github.com/Hemasri198/Portfolio.git
    ```
 
 2. Navigate into the project folder:
